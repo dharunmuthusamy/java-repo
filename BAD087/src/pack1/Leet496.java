@@ -1,3 +1,4 @@
+//Next Greater Element
 package pack1;
 import java.util.*;
 import java.util.Stack;
@@ -75,6 +76,6 @@ public class Leet496 {
 		for(int i=0;i<n;i++) {
 			arr[i] = sc.nextInt();
 		}
-		System.out.print(Arrays.toString(circularOptimized(arr)));
+		System.out.print(Arrays.toString(optimizedStack(arr)));
 	}
 }
