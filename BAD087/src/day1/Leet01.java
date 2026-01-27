@@ -1,5 +1,5 @@
 //Two sum
-package pack1;
+package day1;
 
 import java.util.Arrays;
 import java.util.HashMap;

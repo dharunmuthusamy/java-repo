@@ -1,4 +1,4 @@
-package pack1;
+package day2;
 import java.util.*;
 public class Leet121 {
 	public static int bruteForce(int[] arr) {

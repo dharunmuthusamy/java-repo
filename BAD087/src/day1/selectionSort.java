@@ -1,5 +1,5 @@
 
-package pack1;
+package day1;
 import java.util.*;
 public class selectionSort {
 	public static int[] selectionSorting(int arr[]){ //O(n^2)

@@ -1,5 +1,5 @@
 //Daily Temperature
-package pack1;
+package day3;
 
 import java.util.Arrays;
 import java.util.Scanner;
