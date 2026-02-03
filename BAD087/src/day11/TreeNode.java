@@ -1,5 +1,5 @@
 package day11;
-class TreeNode{
+public class TreeNode{
 	int data;
 	TreeNode left;
 	TreeNode right;
